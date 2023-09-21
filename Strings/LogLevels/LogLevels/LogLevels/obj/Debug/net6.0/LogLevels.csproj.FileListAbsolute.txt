@@ -1,0 +1,14 @@
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\bin\Debug\net6.0\LogLevels.exe
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\bin\Debug\net6.0\LogLevels.deps.json
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\bin\Debug\net6.0\LogLevels.runtimeconfig.json
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\bin\Debug\net6.0\LogLevels.dll
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\bin\Debug\net6.0\LogLevels.pdb
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.AssemblyInfo.cs
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.dll
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\refint\LogLevels.dll
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.pdb
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\LogLevels.genruntimeconfig.cache
+C:\Users\james\Documents\Programming\Software Development\Excercism Exercises\Exercism\Strings\LogLevels\LogLevels\LogLevels\obj\Debug\net6.0\ref\LogLevels.dll
