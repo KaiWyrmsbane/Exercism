@@ -26,7 +26,7 @@ namespace CarAssemblyExercise
             {
                 successRate = 0.90;
             }
-            else if (speed > 8 && speed == 9)
+            else if (speed == 9)
             {
                 successRate = 0.80;
             }
